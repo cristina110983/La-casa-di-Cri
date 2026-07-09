@@ -1,0 +1,16 @@
+SITO LA CASA DI CRI
+
+File da caricare su GitHub:
+- index.html
+- style.css
+- cartella images completa
+
+Dopo il caricamento:
+1. Vai su Settings del repository.
+2. Vai su Pages.
+3. In Branch scegli main e /root.
+4. Salva.
+5. Dopo qualche minuto il sito sarà online su GitHub Pages.
+
+Il pulsante WhatsApp è già impostato sul numero 3881024009.
+La mappa è già impostata su Via Orazio 11, San Benedetto del Tronto.
