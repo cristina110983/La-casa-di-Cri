@@ -16,8 +16,11 @@ footer{text-align:center;background:#f8fafc;padding:30px;color:#667085}
 @media(max-width:850px){.intro,.services{grid-template-columns:1fr}.features{grid-template-columns:1fr 1fr}.gallery{grid-template-columns:1fr 1fr}.gallery .wide{grid-column:span 2;height:420px}.nav-links{display:none}}
 @media(max-width:560px){.features,.gallery{grid-template-columns:1fr}.gallery img,.gallery .wide{grid-column:span 1;height:320px}.hero{min-height:86vh}.hero-content{margin-top:13vh}}
  .included-services{
-  margin:32px 0;
+    margin:40px auto;
+    max-width:650px;
 }
+  
+
 
 .included-services details{
   background:#ffffff;
@@ -32,7 +35,7 @@ footer{text-align:center;background:#f8fafc;padding:30px;color:#667085}
   align-items:center;
   justify-content:space-between;
   gap:16px;
-  padding:20px 22px;background:#0b5ed7 !important;
+  padding:24px 26px;background:#0b5ed7 !important;
 color:white !important;
 font-weight:700;
 background:#0b5ed7;
