@@ -17,8 +17,12 @@ footer{text-align:center;background:#f8fafc;padding:30px;color:#667085}
 @media(max-width:560px){.features,.gallery{grid-template-columns:1fr}.gallery img,.gallery .wide{grid-column:span 1;height:320px}.hero{min-height:86vh}.hero-content{margin-top:13vh}}
  .included-services{
     margin:40px auto;
-    max-width:650px;
+    max-width:100%;
+    width:100%;
+    box-sizing:border-box;
 }
+   
+
   
 
 
@@ -35,12 +39,11 @@ footer{text-align:center;background:#f8fafc;padding:30px;color:#667085}
   align-items:center;
   justify-content:space-between;
   gap:16px;
-  padding:24px 26px;background:#0b5ed7 !important;
+  padding:24px 26px;
+ background:#0b5ed7 !important;
 color:white !important;
 font-weight:700;
-background:#0b5ed7;
-color:white;
-font-weight:700;
+
 
   cursor:pointer;
   list-style:none;
@@ -83,7 +86,8 @@ font-weight:700;
   line-height:1.6;
 }
 
-@media(max-width:600px){
+max-width:100%;
+width:100%;{
   .included-services summary{
     align-items:flex-start;
     flex-direction:column;
