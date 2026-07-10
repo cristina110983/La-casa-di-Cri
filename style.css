@@ -32,7 +32,9 @@ footer{text-align:center;background:#f8fafc;padding:30px;color:#667085}
   align-items:center;
   justify-content:space-between;
   gap:16px;
-  padding:20px 22px;
+  padding:20px 22px;background:#0b5ed7 !important;
+color:white !important;
+font-weight:700;
 background:#0b5ed7;
 color:white;
 font-weight:700;
