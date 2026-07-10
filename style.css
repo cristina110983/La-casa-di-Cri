@@ -98,3 +98,23 @@ width:100%;{
     right:22px;
   }
 }
+ .cin-box{
+  margin:48px 0;
+  padding:28px;
+  background:#f8fafc;
+  border-left:6px solid #0b5ed7;
+  border-radius:18px;
+  box-shadow:0 10px 25px rgba(0,0,0,.08);
+  text-align:center;
+}
+
+.cin-box h2{
+  margin:10px 0;
+  color:#0b5ed7;
+  font-size:28px;
+  letter-spacing:1px;
+}
+
+.cin-box p{
+  margin:8px 0;
+}
