@@ -118,3 +118,14 @@ width:100%;{
 .cin-box p{
   margin:8px 0;
 }
+/* MAPPA PIÙ GRANDE E PIÙ IN ALTO */
+.map-section {
+  margin-top: -40px;
+}
+
+.map-section iframe {
+  width: 100%;
+  height: 500px;
+  border: 0;
+  display: block;
+}
